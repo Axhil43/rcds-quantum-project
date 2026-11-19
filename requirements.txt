@@ -1,0 +1,10 @@
+cudaq==0.17.0
+numpy
+pandas
+scipy
+pyscf
+matplotlib
+streamlit
+scikit-learn
+plotly
+pyserial
